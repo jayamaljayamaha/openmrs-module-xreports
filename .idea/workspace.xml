@@ -69,7 +69,7 @@
       <file leaf-file-name="reportGroup.gsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/pages/reportGroup.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
+            <state relative-caret-position="1385">
               <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding />
             </state>
@@ -512,12 +512,12 @@
       <workItem from="1551461145244" duration="16058000" />
       <workItem from="1552097844418" duration="3859000" />
       <workItem from="1552209222685" duration="7860000" />
-      <workItem from="1552324773184" duration="576000" />
+      <workItem from="1552324773184" duration="739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29293000" />
+    <option name="totallyTimeSpent" value="29456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -961,7 +961,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/pages/reportGroup.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
+        <state relative-caret-position="1385">
           <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding />
         </state>
